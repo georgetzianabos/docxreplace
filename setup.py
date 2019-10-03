@@ -17,7 +17,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[
         'docopt>=0.6.2',
-        'xmltodict>=0.12.0'
+        'python-docx>=0.8.10'
     ],
     entry_points={
         'console_scripts': [
